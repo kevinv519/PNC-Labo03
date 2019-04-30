@@ -19,3 +19,11 @@ Para el segundo ejemplo, el estudiante sera menor de edad y no tendrá teléfono
 * __carnet:__ 00018616
 * __fecha de nacimiento:__ 10/10/2002
 * __telefonos:__
+
+Tags utilizados en archivo info.jsp:
+```java
+<c:if>,
+<c:set>,
+<c:forEach>,
+${fn:length()}
+```
